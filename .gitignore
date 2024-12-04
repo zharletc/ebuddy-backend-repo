@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+/storage/repositories/*
+!/storage/repositories/.gitignore
+/src/service-account.json
